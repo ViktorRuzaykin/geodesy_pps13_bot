@@ -21,19 +21,18 @@ TOKEN = '5957927034:AAHK4tv8m5eU9UTWR0L24JmjC_o1vemI6iE'  # product
 
 # кнопки управления
 KEYBOARD = {
-    'ADD_POINT': emojize('⊙Добавить точку'),
-    'SEARCH': emojize('🔍Найти точку'),
-    'ALL_POINTS': emojize('📋Весь список точек'),
+    'EXECUTIVE_DOC': emojize('🖺Исполнительная документация'),
+    'FIELDWORK': emojize('⛏Полевые работы'),
+    'CONSTRUCTION_LINE': emojize('📏Объекты линейного строительства'),
+    'CONSTRUCTION_GROUND': emojize('🌍Объекты наземного строительства'),
+    'FIND_PERFORMER': emojize('🔎Найти исполнителя схем'),
+    'REGISTER_DOCUMENTS': emojize('📑Реестры ИД'),
     'BACK': emojize('🔙Назад'),
     'SKIP': emojize('▶Пропустить'),
     'YES': emojize('✅Да'),
     'NEGATIVE': emojize('❌Нет'),
-    'DOWNLOAD_POINT': emojize('⬇Загрузить точки'),
     'DELETE_POINT': emojize('❌Удалить'),
     'EDIT_POINT': emojize('📝Поправить'),
-    'EDIT_COORDINATE': emojize('🌐Координаты'),
-    'EDIT_NAME': emojize('Имя'),
-    'EDIT_IMAGE': emojize('📸Фото'),
     'EDIT_DESCRIPTION': emojize('📋Описание'),
 
 }
